@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易通論
-#+DATE: 2015-09-23 09:35:30
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 21:59:14.964551
+#+PROPERTY: ID KR1a0132
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1a0132_WYG_003-1a>¶
 欽定四庫全書¶
 　周易通論卷三¶
@@ -614,4 +616,3 @@
 　¶
 　¶
 　周易通論卷三¶
-

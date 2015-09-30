@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易通論
-#+DATE: 2015-09-23 09:35:30
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:59:14.941863
+#+PROPERTY: ID KR1a0132
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1a0132_WYG_002-1a>¶
 欽定四庫全書¶
 　周易通論卷二¶
@@ -740,4 +742,3 @@
 　¶
 　¶
 　周易通論卷二¶
-
